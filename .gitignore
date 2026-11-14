@@ -1,0 +1,13 @@
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# PyInstaller Build Artifacts (keep fusiongesture.spec, ignore outputs)
+build/
+dist/
+*.pyc
+
+# macOS System Files
+.DS_Store
